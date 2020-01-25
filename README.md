@@ -1,6 +1,9 @@
 # Multi-thread-Genetic-Algorithm-Painter
 Using Genetic Algorithm to fit a image
 
+You should have Qt5 for using it.
+Or 
+you can change QColor, QImage to CV::Mat and QThread to std::thread
 
 HANA from xenoblade 2
 
