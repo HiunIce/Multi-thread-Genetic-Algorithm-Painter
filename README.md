@@ -10,7 +10,7 @@ HANA from xenoblade 2
 ![ad](https://github.com/WailmerPail/Multi-thread-Genetic-Algorithm-Painter/blob/master/HANA_RESULT.png)
 
 
-春場ねぎ! NINO is the best girl!！！
+NINO is the best girl!！！
 
 ![ad](https://github.com/WailmerPail/Multi-thread-Genetic-Algorithm-Painter/blob/master/NINO_RESULT.png)
 
